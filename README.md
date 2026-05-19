@@ -1,4 +1,4 @@
-# mcino-Introduction-to-Git-and-GitHub
+# github-final-project
 
 ## Simple Interest Calculator
 
